@@ -2,9 +2,9 @@ name: Python Workflow for Sum Frequencies Application
 on:
   workflow_dispatch:
   push:
-    branches: [ main ]
+    branches: [ node-matix ]
   pull_request:
-    branches: [ main ]
+    branches: [ node-matrix ]
 
 jobs:
   build:
