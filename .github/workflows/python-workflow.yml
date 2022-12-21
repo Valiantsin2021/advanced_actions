@@ -1,6 +1,5 @@
 name: Python Workflow for Sum Frequencies Application
 on:
-  workflow_dispatch:
   push:
     branches: [ node-matix ]
   pull_request:
