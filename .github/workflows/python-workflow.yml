@@ -1,7 +1,7 @@
 name: Python Workflow for Sum Frequencies Application
 on:
   push:
-    branches: [ node-matix ]
+    branches: [ node-matrix ]
   pull_request:
     branches: [ node-matrix ]
 
